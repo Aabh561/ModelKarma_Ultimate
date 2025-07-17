@@ -32,3 +32,25 @@ ModelKarma_Ultimate/
 ├── requirements.txt # Python dependencies
 ├── README.md
 └── .gitignore
+
+
+📄 Referenced Research
+🔬 Trustworthy ML Principles Implemented
+A Survey on Trustworthy Machine Learning: Foundations, Challenges, and Opportunities
+📄 Chien-Yi Wang, Xiaojin Zhu, et al.
+🧾 arXiv:2205.11135
+
+We implemented several key trust dimensions outlined in this paper:
+
+Fairness auditing
+
+Explainability (SHAP & LLM commentary)
+
+Monitoring & Robustness
+
+Recovery from harmful outputs
+
+👨‍💻 Authors
+Aabharan Rout – Developer & Architect
+
+
