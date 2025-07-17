@@ -1,0 +1,8 @@
+accuracy_weight: 0.35
+latency_weight: 0.20
+drift_weight: 0.15
+fairness_weight: 0.20
+retrain_penalty_weight: 0.10
+
+max_latency: 2000        
+max_drift: 0.3          

@@ -1,0 +1,17 @@
+fastapi
+uvicorn
+pandas
+streamlit
+plotly
+seaborn
+scikit-learn
+xgboost
+joblib
+requests
+python-dotenv
+prophet
+dowhy
+textblob
+reportlab
+matplotlib
+notebook
