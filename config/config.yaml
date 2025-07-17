@@ -1,0 +1,16 @@
+model:
+  path: models/final_model.pkl
+  fallback_model: models/fallback_model.pkl
+
+trust_thresholds:
+  shap: 0.3
+  drift: 0.2
+  fairness: 0.8
+
+llm:
+  engine: ollama
+  model_name: llama3
+  commentary_enabled: true
+
+dashboard:
+  port: 8501
